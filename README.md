@@ -5,12 +5,19 @@ For any dataset:
 You should run the colab file multiple times by selecting different options from the below menu:
 
 Press 0, 1, 2 , 3 , 4 , 5 :
+
 train mode (0)
+
 test set uncertainty metrics for correct and wrong predictions (1)
+
 Prepare Last Hidden Layer Outputs (2)
+
 Train MLP (3)
+
 Prepare Data (4)
+
 Plot Performances (5)
+
 
 You first need to train your CNN model by chosing option 0
 Then, you need to get the last hidden layer activations of all clean, noisy and perturbed samples by chosing option 2
