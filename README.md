@@ -34,10 +34,10 @@ To obtain the detection results, you should complete option 0, 2, 3 , 4 and 5 in
 All the files will be stored on your google drive. 
 
 
-*Cite The Paper*  
-If you find those results useful please cite the article :
+*Cite The DataSet*  
+If you find those results useful please cite them :
 
-@ARTICLE{2020arXiv201206390F,
+@article{2020arXiv201206390F,
        author = {{Faruk Tuna}, Omer and {Ozgur Catak}, Ferhat and {Taner Eskil}, M.},
         title = "{Closeness and Uncertainty Aware Adversarial Examples Detection in Adversarial Machine Learning}",
       journal = {arXiv e-prints},
