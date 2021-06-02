@@ -32,3 +32,23 @@ Chose Option 5 to train the LR model and obtain the ROC-AUC scores for adversari
 To obtain the detection results, you should complete option 0, 2, 3 , 4 and 5 in the given order.
 
 All the files will be stored on your google drive. 
+
+
+*Cite The DataSet*  
+If you find those results useful please cite them :
+
+@ARTICLE{2020arXiv201206390F,
+       author = {{Faruk Tuna}, Omer and {Ozgur Catak}, Ferhat and {Taner Eskil}, M.},
+        title = "{Closeness and Uncertainty Aware Adversarial Examples Detection in Adversarial Machine Learning}",
+      journal = {arXiv e-prints},
+     keywords = {Computer Science - Machine Learning, Computer Science - Artificial Intelligence},
+         year = 2020,
+        month = dec,
+          eid = {arXiv:2012.06390},
+        pages = {arXiv:2012.06390},
+archivePrefix = {arXiv},
+       eprint = {2012.06390},
+ primaryClass = {cs.LG},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2020arXiv201206390F},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
