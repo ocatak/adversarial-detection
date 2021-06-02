@@ -35,7 +35,7 @@ All the files will be stored on your google drive.
 
 
 *Cite The Paper*  
-If you find those results useful please cite them :
+If you find those results useful please cite the paper :
 
 @article{2020arXiv201206390F,
        author = {{Faruk Tuna}, Omer and {Ozgur Catak}, Ferhat and {Taner Eskil}, M.},
