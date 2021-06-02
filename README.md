@@ -34,7 +34,7 @@ To obtain the detection results, you should complete option 0, 2, 3 , 4 and 5 in
 All the files will be stored on your google drive. 
 
 
-*Cite The DataSet*  
+*Cite The Paper*  
 If you find those results useful please cite them :
 
 @article{2020arXiv201206390F,
